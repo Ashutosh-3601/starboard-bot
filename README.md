@@ -7,5 +7,6 @@ Starboard Bot for the BlackB1RD-Development discord server.
 * **[JamesParkDev](https://github.com/JamesParkDev)**
 * **[BlackB1RD](https://github.com/realblackb1rd)** 
 * **[Vetlix](https://github.com/Vetlix)**
+* **[Ashutosh](https://github.com/Ashutosh-3601)**
 
 See also the list of [contributors](https://github.com/BlackB1RD-Development/starboard-bot/contributors) who participated in this project.
